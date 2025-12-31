@@ -1,7 +1,7 @@
-import AuthCard from "../components/auth/AuthCard";
-import AuthFooter from "../components/auth/AuthFooter";
-import AuthHeader from "../components/auth/AuthHeader";
-import LoginForm from "./../components/auth/LoginForm";
+import AuthCard from "../../components/auth/AuthCard";
+import AuthFooter from "../../components/auth/AuthFooter";
+import AuthHeader from "../../components/auth/AuthHeader";
+import LoginForm from "../../components/auth/LoginForm";
 
 const Login = () => {
   return (

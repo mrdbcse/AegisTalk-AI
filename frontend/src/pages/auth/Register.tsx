@@ -1,7 +1,7 @@
-import AuthCard from "../components/auth/AuthCard";
-import AuthFooter from "../components/auth/AuthFooter";
-import AuthHeader from "../components/auth/AuthHeader";
-import RegisterForm from "../components/auth/RegisterForm";
+import AuthCard from "../../components/auth/AuthCard";
+import AuthFooter from "../../components/auth/AuthFooter";
+import AuthHeader from "../../components/auth/AuthHeader";
+import RegisterForm from "../../components/auth/RegisterForm";
 
 const Register = () => {
   return (
