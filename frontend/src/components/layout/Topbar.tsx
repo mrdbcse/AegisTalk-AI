@@ -7,7 +7,7 @@ const Topbar = () => {
           Notifications
         </button> */}
         <div className="h-10 w-10 rounded-full bg-indigo-950 text-white flex items-center justify-center text-sm">
-          D
+          DB
         </div>
       </div>
     </header>
